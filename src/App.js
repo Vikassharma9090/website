@@ -8,7 +8,7 @@ import Footer from "./Footer";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
-import { Redirect, Route, Switch } from 'react-router';
+import { Redirect, Route, Switch } from 'react-router-dom';
 
 // import "./index.css";
 
@@ -26,7 +26,7 @@ const App=()=>{
             <Route exact path="/contact" component={Contact} />
             {/* <Route exact path="/navbar" component={Navbar} /> */}
 
-            <Redirect />
+            <Redirect to ="/"/>
            
         </Switch>
         <br/>

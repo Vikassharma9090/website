@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.6b50cbab.chunk.css",
+    "main.js": "/Website/static/js/main.f15f79f5.chunk.js",
+    "main.js.map": "/Website/static/js/main.f15f79f5.chunk.js.map",
+    "runtime-main.js": "/Website/static/js/runtime-main.a77d84cb.js",
+    "runtime-main.js.map": "/Website/static/js/runtime-main.a77d84cb.js.map",
+    "static/css/2.74c02967.chunk.css": "/Website/static/css/2.74c02967.chunk.css",
+    "static/js/2.51a3321e.chunk.js": "/Website/static/js/2.51a3321e.chunk.js",
+    "static/js/2.51a3321e.chunk.js.map": "/Website/static/js/2.51a3321e.chunk.js.map",
+    "static/js/3.5f54e915.chunk.js": "/Website/static/js/3.5f54e915.chunk.js",
+    "static/js/3.5f54e915.chunk.js.map": "/Website/static/js/3.5f54e915.chunk.js.map",
+    "index.html": "/Website/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/Website/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.6b50cbab.chunk.css.map": "/Website/static/css/main.6b50cbab.chunk.css.map",
+    "static/js/2.51a3321e.chunk.js.LICENSE.txt": "/Website/static/js/2.51a3321e.chunk.js.LICENSE.txt",
+    "static/media/Android.60119b19.svg": "/Website/static/media/Android.60119b19.svg",
+    "static/media/DigitalMarketng.236a6a33.svg": "/Website/static/media/DigitalMarketng.236a6a33.svg",
+    "static/media/Hacking.1eebf1c8.png": "/Website/static/media/Hacking.1eebf1c8.png",
+    "static/media/Marketing.120593b6.png": "/Website/static/media/Marketing.120593b6.png",
+    "static/media/Software.14935d3b.svg": "/Website/static/media/Software.14935d3b.svg",
+    "static/media/c.7f14a934.png": "/Website/static/media/c.7f14a934.png",
+    "static/media/web.4bd0f608.svg": "/Website/static/media/web.4bd0f608.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a77d84cb.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.51a3321e.chunk.js",
+    "static/css/main.6b50cbab.chunk.css",
+    "static/js/main.f15f79f5.chunk.js"
+  ]
+}
